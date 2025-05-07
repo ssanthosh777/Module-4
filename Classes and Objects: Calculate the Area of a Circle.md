@@ -27,3 +27,4 @@ res.slot()
 ## Output
 ![Screenshot (144)](https://github.com/user-attachments/assets/353bddc7-e4f1-469f-9c7d-f8967d7e1aa3)
 ## Result
+Thus the program executed successfully.
